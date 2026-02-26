@@ -74,9 +74,7 @@ Database-driven responses (via backend in full system)
 
 > Frontend version deployed using GitHub Pages
 
-Example:
-
-https://yourusername.github.io/shri-college-enquiry-chatbot/
+https://bit.ly/AIChatbot-Shri
 
 
 

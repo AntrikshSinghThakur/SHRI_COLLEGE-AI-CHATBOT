@@ -69,6 +69,7 @@ Database-driven responses (via backend in full system)
 
 
 
+
 6.🚀 Live Demo
 
 > Frontend version deployed using GitHub Pages
@@ -76,6 +77,7 @@ Database-driven responses (via backend in full system)
 Example:
 
 https://yourusername.github.io/shri-college-enquiry-chatbot/
+
 
 
 7.👥 Team Project
@@ -91,6 +93,7 @@ Client-side chatbot logic
 JavaScript Q&A handling
 
 UI integration
+
 
 
 8.🧩 Backend & Database Note
@@ -109,6 +112,7 @@ backend/
 └── config.env
 
 
+
 9.📈 Future Improvements
 
 Full backend integration
@@ -122,6 +126,7 @@ NLP-based chatbot processing
 Authentication system
 
 Role-based access
+
 
 
 

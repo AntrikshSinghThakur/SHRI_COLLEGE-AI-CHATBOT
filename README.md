@@ -74,7 +74,7 @@ Database-driven responses (via backend in full system)
 
 > Frontend version deployed using GitHub Pages
 
-https://bit.ly/AIChatbot-Shri
+https://college-inquiry-chatbot.netlify.app/
 
 
 
